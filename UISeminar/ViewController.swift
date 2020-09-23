@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var cicrileView: UIView!
     override func viewDidLoad() {
         super.viewDidLoad()
-        
+        // hsgfjhfgshjfgjhsgjhfjsd
         //cicrileView.layer.cornerRadius=cicrileView.bounds.height/2
         // Do any additional setup after loading the view.
     }
