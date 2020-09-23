@@ -17,6 +17,9 @@ class ViewController: UIViewController {
         //fhsgf sdjfsdjhdshjf
         //рыпароыа
         //gfhjsfgsjhf
+        
+        //jfghjfd
+        
         //cicrileView.layer.cornerRadius=cicrileView.bounds.height/2
         // Do any additional setup after loading the view.
     }
